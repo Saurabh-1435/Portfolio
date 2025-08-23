@@ -2,7 +2,7 @@
 
 Welcome to my **developer portfolio**, built with **React + TypeScript**! I'm a passionate Full Stack Developer from Pune, India, focused on creating clean, modern, and performant web applications using technologies like **React, Spring Boot, Java, MySQL**, and more.
 
-![Portfolio Preview] [https://portfolio-personal-new.netlify.app/] 
+![Portfolio Preview] [https://admirable-pavlova-45b506.netlify.app/] 
 
 ---
 
